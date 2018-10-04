@@ -1,6 +1,6 @@
 ---
 title: Paginas de referencia
-date: 2012-08-23
+date: 04-10-2018
 layout: post.html
 ---
 Aqui puedes consultar las paginas web que use como referencia para construir esta pagina:
