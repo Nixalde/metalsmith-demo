@@ -2,8 +2,6 @@ var Metalsmith  = require('metalsmith');
 var markdown    = require('metalsmith-markdown');
 var layouts     = require('metalsmith-layouts');
 var permalinks  = require('metalsmith-permalinks');
-#var serve = require('metalsmith-serve');
-#var watch = require('metalsmith-watch');
 
 Metalsmith(__dirname)
   .metadata({
@@ -20,17 +18,6 @@ Metalsmith(__dirname)
   .use(layouts({
     engine: 'handlebars'
   }))
-#.use(serve({
-#  host: "0.0.0.0",
-#  port: 8081,
-#  verbose: true
-#}))
-#.use(watch({
-#    paths: {
-#      "${source}/**/*": true,
-#      "layout/**/*": "**/*",
-#    }
-#  }))
   .build(function(err, files) {
     if (err) { throw err; }
   });
