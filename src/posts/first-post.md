@@ -6,4 +6,4 @@ layout: post.html
 Buenas, aqui puedes encontrar un enlace a mis repositorios de github
 - [Nixalde](https://github.com/Nixalde)
 
-![alt text]( "gato 1")
+![alt text](https://github.com/Nixalde/metalsmith-demo/blob/master/kirby.jpeg "kirby")
