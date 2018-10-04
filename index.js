@@ -4,7 +4,6 @@ var layouts     = require('metalsmith-layouts');
 var permalinks  = require('metalsmith-permalinks');
 var serve = require('metalsmith-serve');
 var watch = require('metalsmith-watch');
-var templates = require('metalsmith-templates');
 
 Metalsmith(__dirname)
   .metadata({
@@ -17,7 +16,6 @@ Metalsmith(__dirname)
   .destination('./build')
   .clean(false)
   .use(markdown())
-  .use(templates('handlebars'))
   .use(permalinks())
   .use(layouts({
     engine: 'handlebars'
