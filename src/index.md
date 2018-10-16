@@ -13,4 +13,4 @@ Mira algunos de mis post
 
 - [Fourth post](posts/fourth-post/)
 
-![alt text](http://community.wikia.com/wiki/File:Kawaii_Pikachu_Eating_Pocky_ChocoSticks.jpeg "pika")
+![alt text](https://vignette.wikia.nocookie.net/central/images/2/22/Kawaii_Pikachu_Eating_Pocky_ChocoSticks.jpeg/revision/latest?cb=20160718041529 "pika")
