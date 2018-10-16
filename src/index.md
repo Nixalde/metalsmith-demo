@@ -4,7 +4,7 @@ layout: layout.html
 
 Mira algunos de mis post
 
-[First post]("/posts/first-post/")
+[First post](posts/first-post/)
 
 <a href="/posts/second-post/">Second post</a>
 
