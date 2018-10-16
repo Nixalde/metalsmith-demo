@@ -2,9 +2,9 @@
 layout: layout.html
 ---
 
-<h2>Mira algunos de mis post</h2>
+Mira algunos de mis post
 
-<a href="/posts/first-post/">First post</a>
+[First post]("/posts/first-post/")
 
 <a href="/posts/second-post/">Second post</a>
 
