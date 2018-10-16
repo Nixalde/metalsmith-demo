@@ -1,5 +1,5 @@
 ---
-title: Pagina principal
+title: Paagina de bienvenida
 layout: layout.html
 ---
 
