@@ -1,13 +1,16 @@
 ---
+title: Pagina principal
 layout: layout.html
 ---
 
 Mira algunos de mis post
 
-[First post](posts/first-post/)
+- [First post](posts/first-post/)
 
-<a href="/posts/second-post/">Second post</a>
+- [Second post](posts/second-post/)
 
-<a href="/posts/third-post/">Third post</a>
+- [Third post](posts/third-post/)
 
-<a href="/posts/fourth-post/">Fourth post</a>
+- [Fourth post](posts/fourth-post/)
+
+![alt text](https://github.com/Nixalde/metalsmith-demo/blob/master/kirby.jpeg "kirby")
