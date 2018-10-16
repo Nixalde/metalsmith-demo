@@ -20,7 +20,7 @@ Metalsmith(__dirname)
     engine: 'handlebars'
   }))
   .use(images({
-  	pattern: './*.jpeg'
+  	pattern: '.*'
   }))
   .build(function(err, files) {
     if (err) { throw err; }
